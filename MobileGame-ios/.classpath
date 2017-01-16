@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/core"/>
+	<classpathentry kind="lib" path="/core/libs/com.badlogicgames.gdx/gdx/1.9.5/dc65bb2f51828c58b1b2b3ac585357204d54ee5f/gdx-1.9.5.jar"/>
+	<classpathentry kind="lib" path="/core/libs/com.badlogicgames.gdx/gdx-backend-robovm/1.9.5/4f2be6819e4098d140ee54aecda07b87d0e4b6f9/gdx-backend-robovm-1.9.5.jar"/>
+	<classpathentry kind="lib" path="/core/libs/com.badlogicgames.gdx/gdx-box2d/1.9.5/c8098219abfe00b849cc43d461b1105fea3a2944/gdx-box2d-1.9.5.jar"/>
+	<classpathentry kind="lib" path="/core/libs/com.badlogicgames.gdx/gdx-box2d-platform/1.9.5/7b4b3c32a1b29f08fdaf320614a793630d717d41/gdx-box2d-platform-1.9.5-natives-ios.jar"/>
+	<classpathentry kind="lib" path="/core/libs/com.badlogicgames.gdx/gdx-platform/1.9.5/80fed8c3dbf915df8e93c0ed8943e2e5e569e513/gdx-platform-1.9.5-natives-ios.jar"/>
+	<classpathentry kind="lib" path="/core/libs/com.mobidevelop.robovm/robovm-cocoatouch/2.3.0/f18b2d2b0e955efec33d82de91d7f9c73473b3b2/robovm-cocoatouch-2.3.0.jar"/>
+	<classpathentry kind="lib" path="/core/libs/com.mobidevelop.robovm/robovm-objc/2.3.0/fbd0ce9fe0825fbf7595c72f68cc65f4a30a0e9f/robovm-objc-2.3.0.jar"/>
+	<classpathentry kind="lib" path="/core/libs/com.mobidevelop.robovm/robovm-rt/2.3.0/475db9402471bdac051614a6ec70c2dfd25be32d/robovm-rt-2.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
